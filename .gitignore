@@ -1,0 +1,26 @@
+# configs
+config.json
+
+# packages
+node_modules
+
+# data
+.data
+
+# nodes
+nodes/backup.json
+nodes/backup-2.json
+nodes/lag-free.json
+nodes/us-east
+nodes/us-north
+nodes/us-south
+nodes/us-west
+nodes/violet
+nodes/hotel
+
+# utils
+util/Logs.js
+
+# misc
+.glitch-assets
+shrinkwrap.yaml
